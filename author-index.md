@@ -3,6 +3,9 @@
 ## H
 * [Hemmings, Fred](/authors/hemmings-f.md)
 
+## L
+* [Livingstone, Ian](/authors/livingstone-i.md)
+
 ## P
 * [Pulsipher, Lewis](/authors/pulsipher-l.md)
 
