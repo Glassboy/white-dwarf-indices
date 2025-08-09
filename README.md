@@ -1,10 +1,10 @@
 # White Dwarf Indices
 
 ## Roleplaying Games
-[D&D](/d-and-d.md) | [Warhammer Fantasy Roleplaying](/whfrp.md)
+[Bushido](/game-systems/bushido.md) | [D&D](/game-systems/d-and-d.md) | [Star Trek](/game-systems/startrek.md) [Warhammer Fantasy Roleplaying](/game-systems/whfrp.md)
 
 ## Wargames
-[Necromunda](/necromunda.md) | [Space Marine](/space-marine.md)
+[Necromunda](/game-systems/necromunda.md) | [Space Marine](/game-systems/space-marine.md)
 
 ## 1987
 * [White Dwarf (UK) 085 - January 1987](/wd-uk/wd-uk-085-1987-01.md)
