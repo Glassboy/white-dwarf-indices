@@ -1,7 +1,7 @@
 ---
-title: White Dwarf UK Issue 130
+title: "White Dwarf UK Issue 130"
 date: 1990-10
-tags: [HeroQuest, Necromunda, 'Eavy Metal, Warhammer Fantasy, Space Marine, Bretonnia]
+tags: ["HeroQuest", "Necromunda", "'Eavy Metal", "Warhammer Fantasy", "Space Marine", "Bretonnia"]
 ---
 # White Dwarf UK Issue 130 (October 1990)
 
