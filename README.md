@@ -1,10 +1,9 @@
 # White Dwarf Indices
 
-## Roleplaying Games
-[Bushido](/game-systems/bushido.md) | [Call of Cthulu](/game-systems/cthulu.md) | [D&D](/game-systems/d-and-d.md) | [Judge Dredd](/game-systems/judge-dredd.md) | [Middle Earth Role Playing](/game-systems/merp.md) | [Paranoia](/game-systems/paranoia.md) | [Pendragon](/game-systems/pendragon.md) | [Runequest](/game-systems/runequest.md) | [Star Trek](/game-systems/startrek.md) | [Warhammer Fantasy Roleplaying](/game-systems/whfrp.md)
+[Author Index](/author-index.md) | [Game System Index](/game-system-index.md)
 
-## Wargames
-[Blood Bowl](/game-systems/blood-bowl.md) | [Confrontation](/game-systems/necromunda.md#confrontation) | [Epic 40K](/game-systems/epic.md#epic-40000-1997) | [Necromunda](/game-systems/necromunda.md) | [Space Marine](/game-systems/epic.md#space-marine-1991--and-titan-legions-1994)
+## 1977
+* [White Dwarf (UK) 001 - June/July 1977](/wd-uk/wd-uk-001-1977-06.md)
 
 ## 1987
 * [White Dwarf (UK) 085 - January 1987](/wd-uk/wd-uk-085-1987-01.md)
