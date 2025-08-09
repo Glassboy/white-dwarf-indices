@@ -1,0 +1,1 @@
+* White Dwarf (UK) 085 [A Tale to Tell](/wd-uk/wd-uk-085-1987-01.md#a-tale-to-tell): 16(!) pages of Gloranthan RuneQuest adventure, by Jon Quaife

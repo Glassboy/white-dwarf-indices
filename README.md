@@ -8,7 +8,7 @@
 
 ## 1987
 * [White Dwarf (UK) 085 - January 1987](/wd-uk/wd-uk-085-1987-01.md)
-* [White Dwarf (UK) 086 - February 1987]
+* [White Dwarf (UK) 086 - February 1987](/wd-uk/wd-uk-086-1987-02.md)
 * [White Dwarf (UK) 087 - March 1987]
 * [White Dwarf (UK) 088 - April 1987]
 * [White Dwarf (UK) 089 - May 1987]
