@@ -1,0 +1,1 @@
+This is the contents page for White Dwarf Issue 1 released June/July 1977 I want you to convert it to a plain text changing anything in uppercase to title case but not otherwise reformatting or rewriting the text, and I want you to create a second list of AMA style citations for every article with an author credited.
