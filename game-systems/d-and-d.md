@@ -1,1 +1,4 @@
-[White Dwarf (UK) 085: More Than Skin Deep](/wd-uk/wd-uk-085-1987-01.md#more-than-skin-deep) Problems of race in AD&D, by Allan Miles*
+# Dungeons and Dragons
+
+## Advanced Dungeons and Dragons
+* [White Dwarf (UK) 085: More Than Skin Deep](/wd-uk/wd-uk-085-1987-01.md#more-than-skin-deep) Problems of race in AD&D, by Allan Miles*

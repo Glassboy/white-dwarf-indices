@@ -1,7 +1,7 @@
 # White Dwarf Indices
 
 ## Roleplaying Games
-[Bushido](/game-systems/bushido.md) | [D&D](/game-systems/d-and-d.md) | [Star Trek](/game-systems/startrek.md) [Warhammer Fantasy Roleplaying](/game-systems/whfrp.md)
+[Bushido](/game-systems/bushido.md) | [D&D](/game-systems/d-and-d.md) | [Star Trek](/game-systems/startrek.md) | [Warhammer Fantasy Roleplaying](/game-systems/whfrp.md)
 
 ## Wargames
 [Necromunda](/game-systems/necromunda.md) | [Space Marine](/game-systems/space-marine.md)
