@@ -1,0 +1,1 @@
+White Dwarf (UK) 087 [Taurëfantô](/wd-uk/wd-uk-087-1987-03.md#taurëfantô): Middle-earth Role Playing adventure by Graham Staplehurst
