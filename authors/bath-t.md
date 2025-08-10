@@ -1,0 +1,1 @@
+* Bath, T. "Hyboria: A history." [White Dwarf (UK) Issue 4](/wd-uk/wd-uk-004-1997-12.md#hyboria), (1977), pp 10-11.
