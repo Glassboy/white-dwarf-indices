@@ -1,0 +1,1 @@
+* Pulsipher, L. "Chivalry & Sorcery." [White Dwarf (UK) Issue 5](/wd-uk/wd-uk-005-1978-02.md#chivalry--sorcery), (1978), pp 4-5.

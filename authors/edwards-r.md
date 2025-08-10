@@ -1,0 +1,1 @@
+Edwards, R. "Metamorphosis Alpha; Food and Water on the Starship Warden." [White Dwarf (UK) Issue 5](/wd-uk/wd-uk-005-1978-02.md#metamorphosis-alpha), (1978) pp 16-18.
