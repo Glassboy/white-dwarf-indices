@@ -1,4 +1,6 @@
 # Epic
+[Home](/README.md)
+
 White Dwarf articles for the [Epic 40,000](https://en.wikipedia.org/wiki/Epic_%28tabletop_game%29) family of games.
 
 ## Adeptus Titanicus (1988)

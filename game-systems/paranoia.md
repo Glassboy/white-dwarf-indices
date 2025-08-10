@@ -1,3 +1,5 @@
 # Paranoia
+[Home](/README.md)
+
 White Dwarf articles for [Paranoia](https://en.wikipedia.org/wiki/Paranoia_(role-playing_game))
 * White Dwarf (UK) 087 [Happiness Is Laser Shaped](/wd-uk/wd-uk-087-1987-03.md#happiness-is-laser-shaped) or Pete Tamlyn-shaped in a Paranoia sector...

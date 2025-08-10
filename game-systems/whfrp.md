@@ -1,5 +1,7 @@
 # Warhammer Fantasy Roleplaying Game
-White Dwarf articles for
+[Home](/README.md)
+
+White Dwarf articles for the Warhammer Fantasy Role Playing game.
 
 ## Edition 1
 * Davis, Graeme. "On the Road, Travelling encounters for Warhammer Fantasy Roleplay" [White Dwarf (UK) Issue 85](/wd-uk/wd-uk-085-1987-01.md), Jan. 1987, pp 20-21.
