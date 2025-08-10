@@ -1,0 +1,1 @@
+* Moores R. Solo Dungeon Mapping: Do-it-yourself guide. [White Dwarf Issue 3](/wd-uk/wd-uk-003-1977-10.md#solo-dungeon-mapping), (1977), pp 4-5.*
