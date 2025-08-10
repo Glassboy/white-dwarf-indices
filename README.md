@@ -4,7 +4,9 @@
 
 ## 1977
 * [White Dwarf (UK) 001 - June/July 1977](/wd-uk/wd-uk-001-1977-06.md)
-* [White Dwarf (UK) 002 - Aug/Sep 1997](/wd-uk/wd-uk-002-1977-08.md)
+* [White Dwarf (UK) 002 - Aug/Sep 1977](/wd-uk/wd-uk-002-1977-08.md)
+* [White Dwarf (UK) 003 - Oct/Nov 1977](/wd-uk/wd-uk-003-1977-10.md)
+* [White Dwarf (UK) 004 - Dec/Jan 1977/78](/wd-uk/wd-uk-004-1997-12.md)
 
 ## 1987
 * [White Dwarf (UK) 085 - January 1987](/wd-uk/wd-uk-085-1987-01.md)
